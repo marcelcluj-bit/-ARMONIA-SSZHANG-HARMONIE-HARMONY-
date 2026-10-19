@@ -3,14 +3,15 @@
 
 
 # 🕊️ ARMONIA / ÖSSZHANG / HARMONIE / HARMONY
-> **Open-Source Community Crisis Response & Human Sanctuary Framework**
-> *A warm meal. An open hand. Everything FREE.*
-> *O masă caldă. O mână întinsă. Totul GRATUIT.*
+
+> **Open-Source Community Crisis Response & Human Sanctuary Framework**  
+> *A warm meal. An open hand. Everything FREE.*  
+> *O masă caldă. O mână întinsă. Totul GRATUIT.*  
 > *Egy meleg étel. Egy segítő kéz. Minden INGYENES.*
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-brightgreen.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Architecture: Open-Source](https://img.shields.io/badge/Architecture-Modular_&_Decentralized-blue.svg)](#)
-[![Deployment: Global](https://img.shields.io/badge/Deployment-Church_&_Community_Ready-orange.svg)](#)
+[![Architecture: Open-Source](https://img.shields.io/badge/Architecture-Modular_%26_Decentralized-blue.svg)](#)
+[![Deployment: Global](https://img.shields.io/badge/Deployment-Church_%26_Community_Ready-orange.svg)](#)
 
 ---
 
@@ -22,6 +23,16 @@ Its primary purpose is to prevent extreme isolation, somatic trauma degradation,
 1. **Unconditional Daily Food** (a loaf of bread / a warm meal) with no paperwork or questions asked.
 2. **A Neutral Sanctuary Space** for rest and empathetic listening (de-medicalized, non-bureaucratic).
 3. **A 24/7 Helpline & Dispatch System** operated by trained local volunteers.
+
+---
+
+## 📖 Read the Project (English Version)
+
+If you want to read the complete conceptual analysis, psychological framework, and structural details in English, please check the full guide below:
+
+* **Core Vision & Somatic Trauma Analysis:** Communities often face silent crises where individuals suffer from chronic physical pain (such as severe skin trauma or medical phobias) combined with deep social isolation. Traditional medical institutions can act as triggers; therefore, a human-first, non-intrusive approach is required.
+* **The Church/Community Role:** Historically, local places of worship possess central spaces (courtyards, parish halls) ideally suited to serve as safe, welcoming sanctuaries.
+* **The "Everything FREE" Rule:** By offering daily food and emotional support entirely free of charge and without bureaucratic barriers (no IDs, no forms), vulnerable individuals can find immediate dignity and safety.
 
 ---
 
