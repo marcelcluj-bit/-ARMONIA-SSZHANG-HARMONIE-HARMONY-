@@ -142,3 +142,6 @@ Case Studies: Share successful deployments from your local parish/community.
 Dedicated to the Public Domain under Creative Commons Zero (CC0 1.0 Universal). You can copy, modify, distribute, and run this project globally without asking for permission.
 
 ```
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
